@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Fitness Coach
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.44%2B-02569B?logo=flutter&logoColor=white)
@@ -170,3 +171,6 @@ entry point ของแอปปัจจุบันคือ `lib/main.dart`
   `flutter doctor --android-licenses` เพื่อทบทวน/ยอมรับ Android SDK licenses
 - **Gemini วิเคราะห์ไม่ได้:** ตรวจ API key, อินเทอร์เน็ต, model และ quota; ฟีเจอร์ AI
   เป็นส่วนเสริม จึงยังฝึกและนับ rep แบบออฟไลน์ได้
+=======
+# AI-Fitness-Coach
+>>>>>>> origin/main
